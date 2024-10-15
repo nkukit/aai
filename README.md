@@ -11,9 +11,7 @@ Welcome to the official repository of the "Applied Artificial Intelligence" cour
 This repository contains the following materials:
 
 - **Lecture Slides**: Presentations used during the lectures.
-- **Assignments**: Practical exercises to apply the knowledge gained in the lectures.
-- **Reading Materials**: Suggested readings and reference materials to deepen understanding.
-- **Project Guidelines**: Instructions and resources for course projects.
+- **Papers (Reading Materials)**: Suggested readings and reference materials to deepen understanding.
 
 The videos are hosted on the [Applied Artificial Intelligence Youtube Playlist](https://bit.ly/aaiyoutube).
 
