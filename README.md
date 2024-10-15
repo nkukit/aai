@@ -15,6 +15,8 @@ This repository contains the following materials:
 - **Reading Materials**: Suggested readings and reference materials to deepen understanding.
 - **Project Guidelines**: Instructions and resources for course projects.
 
+The videos are hosted on the [Applied Artificial Intelligence Youtube Playlist](https://bit.ly/aaiyoutube).
+
 ## Prerequisites
 
 To benefit fully from this course, it is helpful for students to have a basic understanding of programming (preferably Python), basic statistics, and a general interest in AI and its applications.
