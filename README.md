@@ -56,6 +56,6 @@ This course was made possible by the ABBA project, which supports advanced AI ed
 
 For any questions or further information, please contact the course instructor:
 
-- **Niklas Kühl** - 
+- **[Niklas Kühl](HTTP://niklas.xyz)**  
 
 We hope you enjoy the course and gain valuable insights into the world of Applied Artificial Intelligence!
