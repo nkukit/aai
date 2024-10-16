@@ -4,7 +4,7 @@ Welcome to the official repository of the "Applied Artificial Intelligence" cour
 
 ## Course Description
 
-"Applied Artificial Intelligence" is a comprehensive course designed to provide students with practical knowledge and hands-on experience in the field of Artificial Intelligence (AI). The course covers a wide range of AI applications, covering the entire machine learning pipeline from problem definition up to successful deployment and monitoring. As part of this course, we are focusing on how these technologies are applied in real-world scenarios.
+"Applied Artificial Intelligence" is a comprehensive course designed to provide students with both theoretical and practical knowledge in the field of Artificial Intelligence (AI). The course covers a wide range of AI examples and applications, covering the entire machine learning pipeline from problem definition up to successful deployment and monitoring. As part of this course, we are focusing on how these technologies are applied in real-world scenarios. Furthermore, we will cover important aspects around foundation models (like LLMs), human-AI collaboration, creative AI, as well as AI ethics & fairness.
 
 ## Content
 
