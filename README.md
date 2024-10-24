@@ -1,6 +1,6 @@
 # Applied Artificial Intelligence
 
-Welcome to the official repository of the "Applied Artificial Intelligence" course! This course is offered at the University of Bayreuth (UBT), Karlsruhe Institute of Technology (KIT), and Technical University of Munich (TUM). It was made possible through the support of the [ABBA project](https://abba-project.de/).
+Welcome to the official repository of the "Applied Artificial Intelligence" course! This course is offered at the University of Bayreuth, Karlsruhe Institute of Technology ("Artificial Intelligence in Service Systems"), and Technical University of Munich. It was made possible through the support of the [ABBA project](https://abba-project.de/).
 
 ## Course Description
 
