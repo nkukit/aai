@@ -16,7 +16,7 @@ This repository contains the following materials:
 The videos are hosted on on VIMEO
 
 - [1: Foundations](https://vimeo.com/1066487974?share=copy)
-- [2: Initation](https://vimeo.com/1066488322?share=copy)
+- [2: Initiation](https://vimeo.com/1066488322?share=copy)
 - [3: Modeling & Evaluation](https://vimeo.com/1066488778?share=copy)
 - [4: Deployment](https://vimeo.com/1066490008?share=copy)
 - [5: Concept Drift](https://vimeo.com/1066490978?share=copy)
