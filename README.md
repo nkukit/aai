@@ -13,7 +13,20 @@ This repository contains the following materials:
 - **Lecture Slides**: Presentations used during the lectures.
 - **Papers (Reading Materials)**: Suggested readings and reference materials to deepen understanding.
 
-The videos are hosted on the [Applied Artificial Intelligence Youtube Playlist](https://bit.ly/aaiyoutube).
+The videos are hosted on on VIMEO
+
+- [1: Foundations](https://vimeo.com/1066487974?share=copy)
+- [2: Initation](https://vimeo.com/1066488322?share=copy)
+- [3: Modeling & Evaluation](https://vimeo.com/1066488778?share=copy)
+- [4: Deployment](https://vimeo.com/1066490008?share=copy)
+- [5: Concept Drift](https://vimeo.com/1066490978?share=copy)
+- [6: Foundation Models](https://vimeo.com/1066491926?share=copy)
+- [7: System-wide Learning](https://vimeo.com/1066492928?share=copy)
+- [8: Human-AI Collaboration](https://vimeo.com/1066525393?share=copy)
+- [9: Creative AI](https://vimeo.com/1066494072?share=copy)
+- [10: AI Ethics & Fairness](https://vimeo.com/1066496200?share=copy)
+
+or, if you prefer Youtube, the [Applied Artificial Intelligence Youtube Playlist](https://bit.ly/aaiyoutube).
 
 ## Prerequisites
 
