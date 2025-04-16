@@ -47,7 +47,7 @@ This repository is intended for educational purposes only. Contributions are cur
 
 ## License
 
-**Applied Artificial Intelligence © 2024 by Niklas Kühl** is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+**Applied Artificial Intelligence © 2025 by Niklas Kühl** is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 You are free to:
 
